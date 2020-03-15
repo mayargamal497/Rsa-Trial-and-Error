@@ -2,10 +2,7 @@ package rsatr;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Mayar
- */
+
 public class RsaTR {
 
     public static int p;
